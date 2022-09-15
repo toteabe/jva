@@ -1,6 +1,6 @@
 /**
  * 
- * Aprende Java con Ejercicios (https://leanpub.com/aprendejava)
+ * Aprende Java con Ejercicios ()
  * 
  * 7.2 Arrays bidimensionales
  * 

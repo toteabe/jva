@@ -1,5 +1,5 @@
 /**
- * Aprende Java con Ejercicios (https://leanpub.com/aprendejava)
+ * Aprende Java con Ejercicios ()
  * 
  * Capítulo 6. Números aleatorios.
  * 
