@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Aprende Java con Ejercicios
+ * 
  * 
  * 
  * Capítulo 4. Sentencia condicional.

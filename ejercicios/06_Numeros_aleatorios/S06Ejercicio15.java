@@ -3,7 +3,7 @@
  * 
  * Solución al ejercicio 15.
  * 
- * "Aprende Java con Ejercicios" ()
+ * "" ()
  *
  * 
  */

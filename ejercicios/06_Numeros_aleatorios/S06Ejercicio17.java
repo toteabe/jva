@@ -1,5 +1,5 @@
 /**
- * Aprende Java con Ejercicios ()
+ *  ()
  * 
  * Capítulo 6. Números aleatorios.
  * 

@@ -1,5 +1,5 @@
 /**
- * Aprende Java con Ejercicios ()
+ *  ()
  * 
  * Capítulo 7. Arrays
  *
