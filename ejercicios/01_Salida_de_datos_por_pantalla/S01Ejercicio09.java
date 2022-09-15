@@ -14,7 +14,7 @@ public class S01Ejercicio09 {
     System.out.println("\n                        ██");
     System.out.println("    APRENDE JAVA      ██");
     System.out.println("   CON EJERCICIOS       ██\n");
-    System.out.println("  Luis José Sánchez  ████████████");
+    System.out.println("  Paco José Albares  ████████████");
     System.out.println("                     ████████  ██");
     System.out.println("                     ████████████");
     System.out.println("                     ████████");

@@ -11,7 +11,7 @@ public class S01Ejercicio10 {
     System.out.println("                        ██");
     System.out.println("    APRENDE JAVA      ██");
     System.out.println("   CON EJERCICIOS       ██\n\033[33m");
-    System.out.println("  Luis José Sánchez \033[34m ████████████");
+    System.out.println("  Paco José Albares \033[34m ████████████");
     System.out.println("                     ████████  ██");
     System.out.println("                     ████████████");
     System.out.println("                     ████████");

@@ -9,7 +9,7 @@
  */
 public class S02Ejercicio02 {
   public static void main(String[] args) {
-    String nombre = "Luis José Sánchez González";
+    String nombre = "Paco José Albares González";
     System.out.println(nombre);
   }
 }
